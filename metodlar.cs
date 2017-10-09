@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace metodlar
 {
-    namespace MetotlarGece
-{
+ 
     class Program
     {
         static int f;  // Global kapsam
